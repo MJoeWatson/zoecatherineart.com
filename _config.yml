@@ -2,9 +2,6 @@
 title: Zoecatherineart.Com
 timezone: UTC
 collections:
-  content-posts-:
-    title: Posts
-    output: true
   posts:
     title: Posts
     output: true
