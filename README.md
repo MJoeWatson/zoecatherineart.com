@@ -1,2 +1,0 @@
-# zoecatherineart.com
-# zoecatherineart.com
