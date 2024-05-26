@@ -14,3 +14,6 @@ collections:
   uploads:
     title: Uploads
     output: true
+  content-slash-posts-slash:
+    title: content/posts/
+    output: true
