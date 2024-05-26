@@ -2,7 +2,7 @@
 title: Admonition Shortcode
 date: 2023-10-20 14:36:06 Z
 slug: admonition-shortcode
-draft: false
+draft: true
 featuredImg: ''
 description: This explains admonition shortcode implementation
 tags:
